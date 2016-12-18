@@ -1,7 +1,7 @@
 #####################################################################################
 # Author : Yogesh Gongati                                                           #
 # Date : 11/27/2016                                                                 #
-# Course : Data Analysis Using R by Professor Ram Gopal                             #
+# Course : Data Analysis in R                                                       #
 # Topic : Concepts beyond Linearity: Splines                                        #
 # Packages Explored : ISLR, splines, gam                                            #
 #####################################################################################
